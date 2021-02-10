@@ -1,0 +1,1701 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>uBlogsy.BusinessLogic.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>uBlogsy.BusinessLogic.dll</orgName>
+    </file>
+    <file>
+      <guid>uBlogsy.BusinessLogic.pdb</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>uBlogsy.BusinessLogic.pdb</orgName>
+    </file>
+    <file>
+      <guid>uBlogsy.Common.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>uBlogsy.Common.dll</orgName>
+    </file>
+    <file>
+      <guid>uBlogsy.Common.pdb</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>uBlogsy.Common.pdb</orgName>
+    </file>
+    <file>
+      <guid>uBlogsy.Web.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>uBlogsy.Web.dll</orgName>
+    </file>
+    <file>
+      <guid>uBlogsy.Web.pdb</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>uBlogsy.Web.pdb</orgName>
+    </file>
+    <file>
+      <guid>uDateFoldersy.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>uDateFoldersy.dll</orgName>
+    </file>
+    <file>
+      <guid>uHelpsy.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>uHelpsy.dll</orgName>
+    </file>
+    <file>
+      <guid>uTagsy.Web.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>uTagsy.Web.dll</orgName>
+    </file>
+    <file>
+      <guid>CreatePost.ascx</guid>
+      <orgPath>/usercontrols/uBlogsy/dashboard</orgPath>
+      <orgName>CreatePost.ascx</orgName>
+    </file>
+    <file>
+      <guid>RSSImport.ascx</guid>
+      <orgPath>/usercontrols/uBlogsy/dashboard</orgPath>
+      <orgName>RSSImport.ascx</orgName>
+    </file>
+    <file>
+      <guid>uDateFoldersy.config</guid>
+      <orgPath>/config</orgPath>
+      <orgName>uDateFoldersy.config</orgName>
+    </file>
+    <file>
+      <guid>uTagsy.config</guid>
+      <orgPath>/config</orgPath>
+      <orgName>uTagsy.config</orgName>
+    </file>
+    <file>
+      <guid>uBlogsy_feed-icon-14x14.png</guid>
+      <orgPath>/Images</orgPath>
+      <orgName>uBlogsy_feed-icon-14x14.png</orgName>
+    </file>
+    <file>
+      <guid>NodeCreator.cshtml</guid>
+      <orgPath>/Views</orgPath>
+      <orgName>NodeCreator.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyBase.cshtml</guid>
+      <orgPath>/Views</orgPath>
+      <orgName>uBlogsyBase.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyBaseBlog.cshtml</guid>
+      <orgPath>/Views</orgPath>
+      <orgName>uBlogsyBaseBlog.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyBaseSite.cshtml</guid>
+      <orgPath>/Views</orgPath>
+      <orgName>uBlogsyBaseSite.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyLanding.cshtml</guid>
+      <orgPath>/Views</orgPath>
+      <orgName>uBlogsyLanding.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyPage.cshtml</guid>
+      <orgPath>/Views</orgPath>
+      <orgName>uBlogsyPage.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyPost.cshtml</guid>
+      <orgPath>/Views</orgPath>
+      <orgName>uBlogsyPost.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyRss.cshtml</guid>
+      <orgPath>/Views</orgPath>
+      <orgName>uBlogsyRss.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsySiteHome.cshtml</guid>
+      <orgPath>/Views</orgPath>
+      <orgName>uBlogsySiteHome.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uDateFoldersyFolderRedirect.cshtml</guid>
+      <orgPath>/Views</orgPath>
+      <orgName>uDateFoldersyFolderRedirect.cshtml</orgName>
+    </file>
+    <file>
+      <guid>Web.config</guid>
+      <orgPath>/Views</orgPath>
+      <orgName>Web.config</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyMacroShowSomeLove.cshtml</guid>
+      <orgPath>/Views/MacroPartials/uBlogsy</orgPath>
+      <orgName>uBlogsyMacroShowSomeLove.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyGlobalBrowserTitle.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Global</orgPath>
+      <orgName>uBlogsyGlobalBrowserTitle.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyGlobalFooter.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Global</orgPath>
+      <orgName>uBlogsyGlobalFooter.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyGlobalHeader.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Global</orgPath>
+      <orgName>uBlogsyGlobalHeader.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyGlobalNavigation.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Global</orgPath>
+      <orgName>uBlogsyGlobalNavigation.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyGlobalSeoMeta.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Global</orgPath>
+      <orgName>uBlogsyGlobalSeoMeta.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyLandingListPosts.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Landing</orgPath>
+      <orgName>uBlogsyLandingListPosts.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyLandingShowPost.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Landing</orgPath>
+      <orgName>uBlogsyLandingShowPost.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyPostListAuthors.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Post</orgPath>
+      <orgName>uBlogsyPostListAuthors.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyPostListLabels.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Post</orgPath>
+      <orgName>uBlogsyPostListLabels.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyPostListRelatedPosts.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Post</orgPath>
+      <orgName>uBlogsyPostListRelatedPosts.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyPostListTags.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Post</orgPath>
+      <orgName>uBlogsyPostListTags.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyPostShowPost.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Post</orgPath>
+      <orgName>uBlogsyPostShowPost.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyShowImage.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Shared</orgPath>
+      <orgName>uBlogsyShowImage.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyWidgetListAuthors.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Widgets</orgPath>
+      <orgName>uBlogsyWidgetListAuthors.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyWidgetListBlogRoll.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Widgets</orgPath>
+      <orgName>uBlogsyWidgetListBlogRoll.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyWidgetListLabels.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Widgets</orgPath>
+      <orgName>uBlogsyWidgetListLabels.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyWidgetListPostArchive.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Widgets</orgPath>
+      <orgName>uBlogsyWidgetListPostArchive.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyWidgetListPosts.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Widgets</orgPath>
+      <orgName>uBlogsyWidgetListPosts.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyWidgetListPostsForHome.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Widgets</orgPath>
+      <orgName>uBlogsyWidgetListPostsForHome.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyWidgetListTags.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Widgets</orgPath>
+      <orgName>uBlogsyWidgetListTags.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyWidgetSearch.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Widgets</orgPath>
+      <orgName>uBlogsyWidgetSearch.cshtml</orgName>
+    </file>
+    <file>
+      <guid>uBlogsyWidgetShowRSSLink.cshtml</guid>
+      <orgPath>/Views/Partials/uBlogsy/Widgets</orgPath>
+      <orgName>uBlogsyWidgetShowRSSLink.cshtml</orgName>
+    </file>
+    <file>
+      <guid>55aead1d-a9f9-4605-bf71-8f07cc460d53_uDateFoldersyFolderRedirect.cshtml</guid>
+      <orgPath>/Views/Partials/uDateFoldersy</orgPath>
+      <orgName>uDateFoldersyFolderRedirect.cshtml</orgName>
+    </file>
+    <file>
+      <guid>mobileUI-site-nav-opener-bg.svg</guid>
+      <orgPath>/Images</orgPath>
+      <orgName>mobileUI-site-nav-opener-bg.svg</orgName>
+    </file>
+    <file>
+      <guid>mobileUI-site-nav.svg</guid>
+      <orgPath>/Images</orgPath>
+      <orgName>mobileUI-site-nav.svg</orgName>
+    </file>
+    <file>
+      <guid>44a40a61-a5c5-4316-bc86-67bff46f87df_uBlogsy_feed-icon-14x14.png</guid>
+      <orgPath>/Images</orgPath>
+      <orgName>uBlogsy_feed-icon-14x14.png</orgName>
+    </file>
+    <file>
+      <guid>Package.Manifest</guid>
+      <orgPath>/App_Plugins/uTagsy</orgPath>
+      <orgName>Package.Manifest</orgName>
+    </file>
+    <file>
+      <guid>uTagsy.css</guid>
+      <orgPath>/App_Plugins/uTagsy/propertyEditors</orgPath>
+      <orgName>uTagsy.css</orgName>
+    </file>
+    <file>
+      <guid>uTagsyEditor.controller.js</guid>
+      <orgPath>/App_Plugins/uTagsy/propertyEditors</orgPath>
+      <orgName>uTagsyEditor.controller.js</orgName>
+    </file>
+    <file>
+      <guid>uTagsyEditor.html</guid>
+      <orgPath>/App_Plugins/uTagsy/propertyEditors</orgPath>
+      <orgName>uTagsyEditor.html</orgName>
+    </file>
+    <file>
+      <guid>uBlogsy.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>uBlogsy.css</orgName>
+    </file>
+    <file>
+      <guid>Installer.ascx</guid>
+      <orgPath>/usercontrols/uBlogsy/dashboard</orgPath>
+      <orgName>Installer.ascx</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>uBlogsy</name>
+      <version>4.2</version>
+      <license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
+      <url>http://our.umbraco.org/projects/starter-kits/ublogsy</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Anthony Dang</name>
+      <website>http://anthonydotnet.blogspot.com</website>
+    </author>
+    <readme><![CDATA[uBlogsy 4 is a blog package for Umbraco 7 and above.
+
+Version compatibility
+uBlogsy 2.x - Umbraco 4.7 - 4.11.x
+uBlogsy 3.x - Umbraco 6.x
+uBlogsy 3.x (webforms version) - Umbraco 6.x
+uBlogsy 4.x - Umbraco 7.3.x
+uBlogsy 4.1 - Umbraco 7.4.x +
+
+Enjoy!
+
+]]></readme>
+  </info>
+  <Documents>
+    <DocumentSet importMode="root">
+      <uBlogsySiteRoot id="1111" key="6edaa656-0c85-4479-b5be-3d6aad90c631" parentID="-1" level="1" creatorID="0" sortOrder="1" createDate="2016-06-03T15:35:10" updateDate="2016-06-09T17:01:33" nodeName="Site Root" urlName="site-root" path="-1,1111" isDoc="" nodeType="1103" creatorName="Anthony" writerName="Anthony" writerID="0" template="1090" nodeTypeAlias="uBlogsySiteRoot">
+        <umbracoNaviHide>0</umbracoNaviHide>
+        <uBlogsyContentTitle><![CDATA[Home]]></uBlogsyContentTitle>
+        <uBlogsyNavigationTitle><![CDATA[Home]]></uBlogsyNavigationTitle>
+        <uBlogsyLanding id="1112" key="986c55df-403a-4103-bd11-349b63fcc524" parentID="1111" level="2" creatorID="0" sortOrder="0" createDate="2016-06-03T15:35:10" updateDate="2016-06-09T17:01:24" nodeName="Blog" urlName="blog" path="-1,1111,1112" isDoc="" nodeType="1099" creatorName="Anthony" writerName="Anthony" writerID="0" template="1086" nodeTypeAlias="uBlogsyLanding">
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <uBlogsyContentTitle><![CDATA[Blog]]></uBlogsyContentTitle>
+          <uBlogsyNavigationTitle><![CDATA[Blog]]></uBlogsyNavigationTitle>
+          <uBlogsyGeneralUseTitleAsNodeName>1</uBlogsyGeneralUseTitleAsNodeName>
+          <uBlogsyGeneralShowSocialMedia>1</uBlogsyGeneralShowSocialMedia>
+          <uBlogsyGeneralUseSummary>1</uBlogsyGeneralUseSummary>
+          <uBlogsyBlogLinks><![CDATA[http://feeds.feedburner.com/UmbracoBlog
+http://feeds.feedburner.com/midcodecrisis
+]]></uBlogsyBlogLinks>
+          <uBlogsyContainerAuthor id="1113" key="34b9ccf6-8bc3-42e8-ac4c-96d5a8dd5d76" parentID="1112" level="3" creatorID="0" sortOrder="0" createDate="2016-06-03T15:35:10" updateDate="2016-06-09T17:01:24" nodeName="Authors" urlName="authors" path="-1,1111,1112,1113" isDoc="" nodeType="1097" creatorName="Anthony" writerName="Anthony" writerID="0" template="0" nodeTypeAlias="uBlogsyContainerAuthor">
+            <umbracoNaviHide>0</umbracoNaviHide>
+            <uBlogsyAuthor id="1114" key="f326174e-a91f-42d7-b9b8-cccf0f4de59e" parentID="1113" level="4" creatorID="0" sortOrder="0" createDate="2016-06-03T15:35:10" updateDate="2016-06-09T17:01:25" nodeName="Author 1" urlName="author-1" path="-1,1111,1112,1113,1114" isDoc="" nodeType="1095" creatorName="Anthony" writerName="Anthony" writerID="0" template="0" nodeTypeAlias="uBlogsyAuthor">
+              <umbracoNaviHide>0</umbracoNaviHide>
+              <uBlogsyAuthorName><![CDATA[Author 1]]></uBlogsyAuthorName>
+            </uBlogsyAuthor>
+          </uBlogsyContainerAuthor>
+          <uBlogsyContainerLabel id="1115" key="fa056948-ab03-4d3e-84c0-e8f780e64ef0" parentID="1112" level="3" creatorID="0" sortOrder="1" createDate="2016-06-03T15:35:10" updateDate="2016-06-09T17:01:24" nodeName="Categories (optional)" urlName="categories-optional" path="-1,1111,1112,1115" isDoc="" nodeType="1098" creatorName="Anthony" writerName="Anthony" writerID="0" template="0" nodeTypeAlias="uBlogsyContainerLabel">
+            <umbracoNaviHide>0</umbracoNaviHide>
+            <uBlogsyLabel id="1116" key="77ae24be-8af0-42c7-a235-e918ab3b3fa1" parentID="1115" level="4" creatorID="0" sortOrder="0" createDate="2016-06-03T15:35:10" updateDate="2016-06-09T17:01:25" nodeName="Category 1" urlName="category-1" path="-1,1111,1112,1115,1116" isDoc="" nodeType="1096" creatorName="Anthony" writerName="Anthony" writerID="0" template="0" nodeTypeAlias="uBlogsyLabel">
+              <umbracoNaviHide>0</umbracoNaviHide>
+              <uBlogsyLabelName><![CDATA[Category 1]]></uBlogsyLabelName>
+            </uBlogsyLabel>
+          </uBlogsyContainerLabel>
+          <uTagsyTagContainer id="1117" key="19b599fd-ff55-4471-8365-4d4ea432677a" parentID="1112" level="3" creatorID="0" sortOrder="2" createDate="2016-06-03T15:35:10" updateDate="2016-06-09T17:01:24" nodeName="Tags" urlName="tags" path="-1,1111,1112,1117" isDoc="" nodeType="1110" creatorName="Anthony" writerName="Anthony" writerID="0" template="0" nodeTypeAlias="uTagsyTagContainer">
+            <uTagsyTag id="1118" key="97015525-d06d-4bbb-8a1f-905b9acb5eaf" parentID="1117" level="4" creatorID="0" sortOrder="0" createDate="2016-06-03T15:35:10" updateDate="2016-06-09T17:01:25" nodeName="Some Tag" urlName="some-tag" path="-1,1111,1112,1117,1118" isDoc="" nodeType="1109" creatorName="Anthony" writerName="Anthony" writerID="0" template="0" nodeTypeAlias="uTagsyTag">
+              <uTagsyTagName><![CDATA[Some Tag]]></uTagsyTagName>
+            </uTagsyTag>
+            <uTagsyTag id="1139" key="23eee6fc-59e9-4c48-a841-a5f2fed5c334" parentID="1117" level="4" creatorID="0" sortOrder="1" createDate="2016-06-19T14:22:22" updateDate="2016-06-19T14:22:22" nodeName="another thing" urlName="another-thing" path="-1,1111,1112,1117,1139" isDoc="" nodeType="1109" creatorName="Anthony" writerName="Anthony" writerID="0" template="0" nodeTypeAlias="uTagsyTag">
+              <uTagsyTagName><![CDATA[another thing]]></uTagsyTagName>
+            </uTagsyTag>
+          </uTagsyTagContainer>
+          <uBlogsyRSS id="1120" key="8fc3598f-c838-4855-9652-9f50f65464ee" parentID="1112" level="3" creatorID="0" sortOrder="3" createDate="2016-06-03T15:35:10" updateDate="2016-06-09T17:01:24" nodeName="RSS" urlName="rss" path="-1,1111,1112,1120" isDoc="" nodeType="1102" creatorName="Anthony" writerName="Anthony" writerID="0" template="1089" nodeTypeAlias="uBlogsyRSS">
+            <umbracoNaviHide>0</umbracoNaviHide>
+            <uBlogsyRssDescription><![CDATA[Blog Description]]></uBlogsyRssDescription>
+            <uBlogsyRssTitle><![CDATA[My Blog]]></uBlogsyRssTitle>
+            <uBlogsyRssCopyright><![CDATA[Copyright @AnthonyDotNet]]></uBlogsyRssCopyright>
+          </uBlogsyRSS>
+          <uDateFoldersyFolderYear id="1136" key="a9902928-3727-409e-8ad0-eb08720fb379" parentID="1112" level="3" creatorID="0" sortOrder="6" createDate="2016-06-19T14:21:30" updateDate="2016-06-19T14:21:31" nodeName="2016" urlName="2016" path="-1,1111,1112,1136" isDoc="" nodeType="1107" creatorName="Anthony" writerName="Anthony" writerID="0" template="1091" nodeTypeAlias="uDateFoldersyFolderYear">
+            <uDateFoldersyFolderMonth id="1137" key="c27e12e0-0281-486f-901e-856e3ce76de6" parentID="1136" level="4" creatorID="0" sortOrder="0" createDate="2016-06-19T14:21:32" updateDate="2016-06-19T14:21:33" nodeName="June" urlName="june" path="-1,1111,1112,1136,1137" isDoc="" nodeType="1106" creatorName="Anthony" writerName="Anthony" writerID="0" template="1091" nodeTypeAlias="uDateFoldersyFolderMonth">
+              <uDateFoldersyFolderDay id="1138" key="8ddeaa6a-f404-41c8-97f9-ba103d1906cd" parentID="1137" level="5" creatorID="0" sortOrder="0" createDate="2016-06-19T14:21:33" updateDate="2016-06-19T14:21:33" nodeName="19" urlName="19" path="-1,1111,1112,1136,1137,1138" isDoc="" nodeType="1105" creatorName="Anthony" writerName="Anthony" writerID="0" template="1091" nodeTypeAlias="uDateFoldersyFolderDay">
+                <uBlogsyPost id="1135" key="27f3a13d-9273-4ac9-8fba-77ca43b1ec16" parentID="1138" level="6" creatorID="0" sortOrder="1" createDate="2016-06-19T14:21:30" updateDate="2016-06-19T14:22:29" nodeName="test" urlName="test" path="-1,1111,1112,1136,1137,1138,1135" isDoc="" nodeType="1101" creatorName="Anthony" writerName="admin" writerID="1" template="1088" nodeTypeAlias="uBlogsyPost">
+                  <umbracoNaviHide>0</umbracoNaviHide>
+                  <uBlogsyContentTitle><![CDATA[test]]></uBlogsyContentTitle>
+                  <uBlogsyNavigationTitle><![CDATA[test]]></uBlogsyNavigationTitle>
+                  <uBlogsyPostTags><![CDATA[1118,1139]]></uBlogsyPostTags>
+                  <uBlogsyPostLabels><![CDATA[1116]]></uBlogsyPostLabels>
+                  <uBlogsyPostDisableComments>0</uBlogsyPostDisableComments>
+                  <uBlogsyPostDate>2016-06-19T14:21:29</uBlogsyPostDate>
+                </uBlogsyPost>
+              </uDateFoldersyFolderDay>
+            </uDateFoldersyFolderMonth>
+          </uDateFoldersyFolderYear>
+        </uBlogsyLanding>
+        <uBlogsyPage id="1125" key="58620769-9be9-4ef4-87a9-29bbf7ab79c9" parentID="1111" level="2" creatorID="0" sortOrder="1" createDate="2016-06-03T15:35:11" updateDate="2016-06-09T17:01:24" nodeName="About" urlName="about" path="-1,1111,1125" isDoc="" nodeType="1100" creatorName="Anthony" writerName="Anthony" writerID="0" template="1087" nodeTypeAlias="uBlogsyPage">
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <uBlogsyContentTitle><![CDATA[About]]></uBlogsyContentTitle>
+          <uBlogsyNavigationTitle><![CDATA[About]]></uBlogsyNavigationTitle>
+        </uBlogsyPage>
+        <uBlogsyPage id="1126" key="124d039a-c115-4857-81e5-873f568fda53" parentID="1111" level="2" creatorID="0" sortOrder="2" createDate="2016-06-03T15:35:11" updateDate="2016-06-09T17:01:24" nodeName="Contact" urlName="contact" path="-1,1111,1126" isDoc="" nodeType="1100" creatorName="Anthony" writerName="Anthony" writerID="0" template="1087" nodeTypeAlias="uBlogsyPage">
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <uBlogsyContentTitle><![CDATA[Contact]]></uBlogsyContentTitle>
+          <uBlogsyNavigationTitle><![CDATA[Contact]]></uBlogsyNavigationTitle>
+        </uBlogsyPage>
+      </uBlogsySiteRoot>
+    </DocumentSet>
+  </Documents>
+  <DocumentTypes>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] [Base]</Name>
+        <Alias>uBlogsyBaseDocType</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>This document type exists to allow sorting and categorisation of sub-document types. Do not create content nodes using this document type!</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Url Alias</Name>
+          <Alias>umbracoUrlAlias</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab />
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Url Name Change</Name>
+          <Alias>umbracoUrlName</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab />
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Invisible Redirect</Name>
+          <Alias>umbracoInternalRedirectId</Alias>
+          <Type>Umbraco.ContentPickerAlias</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab />
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>302 Redirect</Name>
+          <Alias>umbracoRedirect</Alias>
+          <Type>Umbraco.ContentPickerAlias</Type>
+          <Definition>a6857c73-d6e9-480c-b6e6-f15f6ad11125</Definition>
+          <Tab />
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide from navigation</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab />
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] [Base] Container</Name>
+        <Alias>uBlogsyBaseContainer</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uBlogsyBaseDocType</Master>
+        <Compositions>
+          <Composition>uBlogsyBaseDocType</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] [Base] Page</Name>
+        <Alias>uBlogsyBasePage</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>This document type exists to allow sorting and categorisation of sub-document types. Do not create content nodes using this document type!</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uBlogsyBaseDocType</Master>
+        <Compositions>
+          <Composition>uBlogsyBaseDocType</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Body</Name>
+          <Alias>uBlogsyContentBody</Alias>
+          <Type>Umbraco.TinyMCEv3</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Summary</Name>
+          <Alias>uBlogsyContentSummary</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Title</Name>
+          <Alias>uBlogsyContentTitle</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Keywords</Name>
+          <Alias>uBlogsySeoKeywords</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>SEO</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[Used for meta keywords. When this is empty, the title of the page is used.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Seo Title</Name>
+          <Alias>uBlogsySeoTitle</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>SEO</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Description</Name>
+          <Alias>uBlogsySeoDescription</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>SEO</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[Used for meta description. When this is empty, an exerpt of the body text of the page is used.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Navigation Title</Name>
+          <Alias>uBlogsyNavigationTitle</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Navigation</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>18</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>19</Id>
+          <Caption>SEO</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>20</Id>
+          <Caption>Navigation</Caption>
+          <SortOrder>2</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] Author</Name>
+        <Alias>uBlogsyAuthor</Alias>
+        <Icon>icon-umb-users</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uBlogsyBaseDocType</Master>
+        <Compositions>
+          <Composition>uBlogsyBaseDocType</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Author Name</Name>
+          <Alias>uBlogsyAuthorName</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Author</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Gravatar Email</Name>
+          <Alias>uBlogsyAuthorGravatarEmail</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Author</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>21</Id>
+          <Caption>Author</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] Category/Label</Name>
+        <Alias>uBlogsyLabel</Alias>
+        <Icon>icon-files</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Some sites require articles to have more than 1 category. So a label (category) is basically a tag. 
+</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uBlogsyBaseDocType</Master>
+        <Compositions>
+          <Composition>uBlogsyBaseDocType</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Label Name</Name>
+          <Alias>uBlogsyLabelName</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Category</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>22</Id>
+          <Caption>Category</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] Container - Author</Name>
+        <Alias>uBlogsyContainerAuthor</Alias>
+        <Icon>icon-users</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uBlogsyBaseContainer</Master>
+        <Compositions>
+          <Composition>uBlogsyBaseContainer</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>uBlogsyAuthor</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] Container - Label</Name>
+        <Alias>uBlogsyContainerLabel</Alias>
+        <Icon>icon-file-cabinet</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uBlogsyBaseContainer</Master>
+        <Compositions>
+          <Composition>uBlogsyBaseContainer</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>uBlogsyLabel</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] Landing</Name>
+        <Alias>uBlogsyLanding</Alias>
+        <Icon>icon-rss color-orange</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>This is the root of your blog. It is required. There can be multiple of these. But they cannot be nested under eachother.</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uBlogsyBasePage</Master>
+        <Compositions>
+          <Composition>uBlogsyBasePage</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>uBlogsyLanding</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>uBlogsyLanding</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>uBlogsyContainerAuthor</DocumentType>
+        <DocumentType>uBlogsyContainerLabel</DocumentType>
+        <DocumentType>uBlogsyPost</DocumentType>
+        <DocumentType>uBlogsyRSS</DocumentType>
+        <DocumentType>uDateFoldersyFolderYear</DocumentType>
+        <DocumentType>uTagsyTagContainer</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Use Title As Node Name</Name>
+          <Alias>uBlogsyGeneralUseTitleAsNodeName</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>General Settings</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[Deselect this if you want to have a post title which is different to your post's node name.
+
+eg. If you want your title to be "My title" but you want the post url to be /posts/2011/01/my-cool-title/ instead of /posts/2011/01/my-title/
+
+Selected by default.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Show Social Media Links</Name>
+          <Alias>uBlogsyGeneralShowSocialMedia</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>General Settings</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[Select this to show social media sharing links under each post.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Use Summary On Landing</Name>
+          <Alias>uBlogsyGeneralUseSummary</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>General Settings</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[Select this to use post summaries on the main page, instead of whole posts.
+]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Default Author</Name>
+          <Alias>uBlogsyGeneralDefaultAuthor</Alias>
+          <Type>Umbraco.MultiNodeTreePicker</Type>
+          <Definition>29d830c6-15f3-44c7-a775-3100a6cb8210</Definition>
+          <Tab>General Settings</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[This author is used when none are defined in a post.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Blog Roll Links</Name>
+          <Alias>uBlogsyBlogLinks</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Blog Roll</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[A list of blogs you want to follow. Make sure it's one per line.
+
+e.g 
+http://feeds.feedburner.com/midcodecrisis
+http://feeds.feedburner.com/umbracoblog]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>23</Id>
+          <Caption>General Settings</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>24</Id>
+          <Caption>Blog Roll</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] Page</Name>
+        <Alias>uBlogsyPage</Alias>
+        <Icon>icon-umb-content</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>This document type is for simple pages.</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uBlogsyBasePage</Master>
+        <Compositions>
+          <Composition>uBlogsyBasePage</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>uBlogsyPage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>uBlogsyPage</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] Post</Name>
+        <Alias>uBlogsyPost</Alias>
+        <Icon>icon-article</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>This document type is for your blog posts. Put these posts directly under the year folder or under a month folder.</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uBlogsyBasePage</Master>
+        <Compositions>
+          <Composition>uBlogsyBasePage</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>uBlogsyPost</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>uBlogsyPost</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Tags</Name>
+          <Alias>uBlogsyPostTags</Alias>
+          <Type>uTagsy</Type>
+          <Definition>00000455-0000-0000-0000-000000000000</Definition>
+          <Tab>Post Info</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[Remember to click save (or publish)!]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Categories</Name>
+          <Alias>uBlogsyPostLabels</Alias>
+          <Type>Umbraco.MultiNodeTreePicker</Type>
+          <Definition>d1c774d6-7086-4db5-8cff-61853cbdeefa</Definition>
+          <Tab>Post Info</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Main Image</Name>
+          <Alias>uBlogsyPostImage</Alias>
+          <Type>Umbraco.MediaPicker</Type>
+          <Definition>93929b9a-93a2-4e2a-b239-d99334440a59</Definition>
+          <Tab>Post Info</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Author</Name>
+          <Alias>uBlogsyPostAuthor</Alias>
+          <Type>Umbraco.MultiNodeTreePicker</Type>
+          <Definition>29d830c6-15f3-44c7-a775-3100a6cb8210</Definition>
+          <Tab>Post Info</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[There can be multiple authors separated by ",".]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Disable Comments</Name>
+          <Alias>uBlogsyPostDisableComments</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Post Info</Tab>
+          <SortOrder>5</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[Allows you to disable comments to this post. Note that comments that already exist will remain viewable.
+
+If you do not have the comments extension installed, then you can delete this property.
+]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Post Date</Name>
+          <Alias>uBlogsyPostDate</Alias>
+          <Type>Umbraco.DateTime</Type>
+          <Definition>e4d66c0f-b935-4200-81f0-025f7256b89a</Definition>
+          <Tab>Post Info</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>True</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>25</Id>
+          <Caption>Post Info</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] RSS</Name>
+        <Alias>uBlogsyRSS</Alias>
+        <Icon>icon-rss color-orange</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>This document type exists only for an RSS feed. There should only be one of these.</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uBlogsyBaseDocType</Master>
+        <Compositions>
+          <Composition>uBlogsyBaseDocType</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>uBlogsyRss</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>uBlogsyRss</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Description</Name>
+          <Alias>uBlogsyRssDescription</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>RSS Feed</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[The description of your RSS feed]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Title</Name>
+          <Alias>uBlogsyRssTitle</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>RSS Feed</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[The title which is shown in your RSS feed]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Copyright</Name>
+          <Alias>uBlogsyRssCopyright</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>RSS Feed</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[Copyright information which is shown in your RSS feed.
+
+e.g Mid-code Crisis
+]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>27</Id>
+          <Caption>RSS Feed</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uBlogsy] Site Root</Name>
+        <Alias>uBlogsySiteRoot</Alias>
+        <Icon>icon-home</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>True</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uBlogsyBasePage</Master>
+        <Compositions>
+          <Composition>uBlogsyBasePage</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>uBlogsySiteHome</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>uBlogsySiteHome</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>uBlogsyLanding</DocumentType>
+        <DocumentType>uBlogsyPage</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uDateFoldersy] [Base]</Name>
+        <Alias>uDateFoldersyBase</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uDateFoldersy] Folder - Day</Name>
+        <Alias>uDateFoldersyFolderDay</Alias>
+        <Icon>icon-calendar</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uDateFoldersyBase</Master>
+        <Compositions>
+          <Composition>uDateFoldersyBase</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>uDateFoldersyFolderRedirect</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>uDateFoldersyFolderRedirect</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>uBlogsyPost</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uDateFoldersy] Folder - Month</Name>
+        <Alias>uDateFoldersyFolderMonth</Alias>
+        <Icon>icon-calendar-alt</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uDateFoldersyBase</Master>
+        <Compositions>
+          <Composition>uDateFoldersyBase</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>uDateFoldersyFolderRedirect</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>uDateFoldersyFolderRedirect</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>uBlogsyPost</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uDateFoldersy] Folder - Year</Name>
+        <Alias>uDateFoldersyFolderYear</Alias>
+        <Icon>icon-calendar-alt</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uDateFoldersyBase</Master>
+        <Compositions>
+          <Composition>uDateFoldersyBase</Composition>
+        </Compositions>
+        <AllowedTemplates>
+          <Template>uDateFoldersyFolderRedirect</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>uDateFoldersyFolderRedirect</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>uBlogsyPost</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uTagsy] [Base]</Name>
+        <Alias>uTagsyBaseDocType</Alias>
+        <Icon>folder.gif</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uTagsy] Tag</Name>
+        <Alias>uTagsyTag</Alias>
+        <Icon>icon-tag</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uTagsyBaseDocType</Master>
+        <Compositions>
+          <Composition>uTagsyBaseDocType</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Tag Name</Name>
+          <Alias>uTagsyTagName</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Tag</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Validation />
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>28</Id>
+          <Caption>Tag</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>[uTagsy] Tag Container</Name>
+        <Alias>uTagsyTagContainer</Alias>
+        <Icon>icon-tags</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Master>uTagsyBaseDocType</Master>
+        <Compositions>
+          <Composition>uTagsyBaseDocType</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>uTagsyTag</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+  </DocumentTypes>
+  <Templates>
+    <Template>
+      <Name>[uBlogsy] [Base] Blog</Name>
+      <Alias>uBlogsyBaseBlog</Alias>
+      <Design><![CDATA[@*
+    Base Blog layout. Make this inherit from your base template
+*@
+
+@inherits UmbracoTemplatePage
+@{
+    Layout = "uBlogsyBaseSite.cshtml";
+}
+
+@section uBlogsyHead
+{
+    @Html.Partial("uBlogsy/Global/uBlogsyGlobalBrowserTitle")
+
+    @*get meta title and description*@
+    @Html.Partial("uBlogsy/Global/uBlogsyGlobalSeoMeta")
+
+    <script src="http://code.jquery.com/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+    <link type="text/css" rel="Stylesheet" media="screen" href="/css/uBlogsy.css" />
+
+    @RenderSection("uBlogsyHead")
+}
+
+
+
+@section uBlogsyMain
+{
+    <div id="uBlogsy"> 
+        <div id="uBlogsy_main">
+               
+            <section id="uBlogsy_left_col">
+                @RenderSection("uBlogsyLeftCol")
+            </section>
+            <aside id="uBlogsy_right_col">
+                @*search*@
+                @Html.Partial("uBlogsy/Widgets/uBlogsyWidgetSearch")
+
+                @*rss link*@
+                @Html.Partial("uBlogsy/Widgets/uBlogsyWidgetShowRSSLink")
+
+                @*list of authors*@ @*@Umbraco.RenderMacro("uBlogsyListAuthors")*@
+                @Html.CachedPartial("uBlogsy/Widgets/uBlogsyWidgetListAuthors", Model, 0, false, false, new ViewDataDictionary(ViewData) { { "GravatarSize", 20 } })
+
+                @*list of labels*@
+                @Html.CachedPartial("uBlogsy/Widgets/uBlogsyWidgetListLabels", Model, 0)
+
+                @*the awesome tag cloud*@
+                @Html.CachedPartial("uBlogsy/Widgets/uBlogsyWidgetListTags", Model, 0, false, false, new ViewDataDictionary(ViewData) { { "ShowCount", true } })
+                  
+                @*list of latest posts*@
+                @Html.CachedPartial("uBlogsy/Widgets/uBlogsyWidgetListPosts", Model, 0, false, false, new ViewDataDictionary(ViewData) { { "ItemLimit", 5 } })
+
+                @*list of latest comments - install uCommentsy if you want to use comments *@
+                @try{
+                    @Html.CachedPartial("uCommentsy/Widgets/uCommentsyWidgetListComments", Model, 0, false, false, new ViewDataDictionary(ViewData) { { "ItemLimit", 5 } })
+                }catch (Exception){}
+                        
+                @*archive*@
+                @Html.CachedPartial("uBlogsy/Widgets/uBlogsyWidgetListPostArchive", Model, 6000, false, false, new ViewDataDictionary(ViewData) { { "AltLayout", false } })
+
+                @*list blog roll *@
+                @Html.CachedPartial("uBlogsy/Widgets/uBlogsyWidgetListBlogRoll", Model, 6000, false, false, new ViewDataDictionary(ViewData) { { "ItemLimit", 5 } })
+            </aside>
+        </div>
+        
+        @Html.CachedPartial("uBlogsy/Global/uBlogsyGlobalFooter", Model, 0)
+    </div>
+}]]></Design>
+    </Template>
+    <Template>
+      <Name>[uBlogsy] [Base] Site</Name>
+      <Alias>uBlogsyBaseSite</Alias>
+      <Design><![CDATA[@*
+    Base Site layout. Make this inherit from your base template
+*@
+
+@inherits UmbracoTemplatePage
+@{
+    Layout = "uBlogsyBase.cshtml";
+}
+
+@section uBlogsyMain
+{
+    <!doctype html public "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd">
+    <html lang="en-GB" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" dir="ltr">
+        <head>
+            <title>My Site</title>          
+            @RenderSection("uBlogsyHead")
+        </head>
+        <body>
+           
+            @*top navigation*@
+            @Html.CachedPartial("uBlogsy/Global/uBlogsyGlobalHeader", Model, 60, true)
+                
+            @*top navigation*@
+            @Html.CachedPartial("uBlogsy/Global/uBlogsyGlobalNavigation", Model, 60, true)
+            
+                    
+            @RenderSection("uBlogsyMain")
+            
+        </body>
+    </html>
+}]]></Design>
+    </Template>
+    <Template>
+      <Name>[uBlogsy] Base</Name>
+      <Alias>uBlogsyBase</Alias>
+      <Design><![CDATA[@*
+    Base layout just to keep things a bit tidy in Umbraco back office.
+*@
+@inherits UmbracoTemplatePage
+@{
+    Layout = null;
+}
+
+@RenderSection("uBlogsyMain")
+	]]></Design>
+    </Template>
+    <Template>
+      <Name>[uBlogsy] Landing</Name>
+      <Alias>uBlogsyLanding</Alias>
+      <Design><![CDATA[@*
+    Landing layout.
+*@
+@inherits UmbracoTemplatePage
+@{
+    Layout = "uBlogsyBaseBlog.cshtml";
+}
+
+@section uBlogsyHead{}
+
+
+@section uBlogsyLeftCol
+{
+    <div class="uBlogsy_content_body">
+        @if (Request.QueryString.Count == 0)
+        {
+            @Umbraco.Field("uBlogsyContentBody")
+        }
+    </div>
+  
+    @*list posts*@
+    <section class="uBlogsy_posts_container">
+		@Html.CachedPartial("uBlogsy/Landing/uBlogsyLandingListPosts", Model, 0, false, false, new ViewDataDictionary(ViewData) { { "ItemsPerPage", 20 } })		
+    </section>	
+}]]></Design>
+    </Template>
+    <Template>
+      <Name>[uBlogsy] Page</Name>
+      <Alias>uBlogsyPage</Alias>
+      <Design><![CDATA[@*
+    Text page layout.
+*@
+@inherits UmbracoTemplatePage
+@{
+    Layout = "uBlogsyBaseSite.cshtml";
+}
+
+@section uBlogsyHead{
+     <link type="text/css" rel="Stylesheet" media="screen" href="/css/uBlogsy.css" />
+}
+
+@section uBlogsyMain
+{
+    <div id="uBlogsy">
+        <div id="uBlogsy_main" style="width:80%;padding: 0 5%">
+            <h3>
+                <a href="@CurrentPage.Url()">@Umbraco.Field("uBlogsyContentTitle")</a>
+            </h3>
+            <div class="uBlogsy_content_body">
+                @Html.Raw(library.RenderMacroContent(Umbraco.Field("uBlogsyContentBody").ToString(), Model.Content.Id))
+            </div>
+        </div>
+    </div>
+}]]></Design>
+    </Template>
+    <Template>
+      <Name>[uBlogsy] Post</Name>
+      <Alias>uBlogsyPost</Alias>
+      <Design><![CDATA[@*
+    Blog post layout.
+*@
+@using uBlogsy.BusinessLogic
+@using System.Linq
+@using uBlogsy.Common.Extensions
+@inherits UmbracoTemplatePage
+@{
+    Layout = "uBlogsyBaseBlog.cshtml";
+    
+    var tag = Request.QueryString["tag"];
+    var label = Request.QueryString["label"];
+    var author = Request.QueryString["author"];
+    var searchTerm = Request.QueryString["search"];
+    var commenter = Request.QueryString["commenter"];
+    int page = int.TryParse(Request.QueryString["page"], out page) ? page : 1;
+    var year = Request.QueryString["year"];
+    var month = Request.QueryString["month"];
+    var day = Request.QueryString["day"];
+    var prev = PostService.Instance.GetNextPost(Model.Content, tag, label, author, searchTerm, commenter, year, month, day);
+    var next = PostService.Instance.GetPreviousPost(Model.Content, tag, label, author, searchTerm, commenter, year, month, day);
+}
+	
+@section uBlogsyHead{}
+
+@section uBlogsyLeftCol{
+    @*render the post*@
+    <div class="uBlogsy_post_container">
+        @*pagination*@
+        <div class="uBlogsy_next_prev">
+            @if (prev != null)
+            {
+                var prevUrl = prev.Url.GetUrlWithQueryString(Request.QueryString, new[] { "action", "success" });
+                <a href="@prevUrl" class="uBlogsy_prev uBlogsy_font_style20" title="Older Posts">&lt; @Umbraco.GetDictionaryValue("uBlogsyDicPaginationOlder")</a>
+            }
+            
+            @if (next != null)
+            {
+                var nextUrl = next.Url.GetUrlWithQueryString(Request.QueryString, new[] { "action", "success" }); 
+                <a href="@nextUrl" class="uBlogsy_next uBlogsy_font_style20" title="Newer Posts">@Umbraco.GetDictionaryValue("uBlogsyDicPaginationNewer") &gt;</a>
+            }
+        </div>
+        
+        @Html.Partial("uBlogsy/Post/uBlogsyPostShowPost", new ViewDataDictionary(ViewData) { {"Node", Model.Content }, { "UseAddthis", true }, { "GravatarSize", 50 } })
+        
+       
+    </div>
+
+    @*list of related posts*@
+    @Html.Partial("uBlogsy/Post/uBlogsyPostListRelatedPosts", new ViewDataDictionary(ViewData) { { "Node", Model.Content }, { "ItemLimit", 5 }, { "MatchCount", 1 }, { "RelatedAlias", string.Empty } })
+        
+
+    @*list comments - install uCommentsy, then uncomment this line*@
+    @try
+    {
+        @Html.Partial("uCommentsy/uCommentsyListComments", new ViewDataDictionary(ViewData) { { "ItemLimit", -1 } })
+    }
+    catch (Exception) { }
+    
+    @*render contact form - install uCommentsy, then uncomment this line**@
+    @try
+    {
+        @Html.Action("Index", "uCommentsyContactFormSurface", new { CurrentPage })
+    }catch(Exception){}
+}]]></Design>
+    </Template>
+    <Template>
+      <Name>[uBlogsy] Rss</Name>
+      <Alias>uBlogsyRss</Alias>
+      <Design><![CDATA[@using System.Text
+@using uBlogsy.BusinessLogic
+@using uBlogsy.Common.Extensions
+@using uHelpsy.Extensions
+@inherits UmbracoTemplatePage
+@{
+    Layout = null;
+    // get tag, label, or author from query string
+    var tag = Request.QueryString["tag"];
+    var label = Request.QueryString["label"];
+    var author = Request.QueryString["author"];
+    var searchTerm = Request.QueryString["search"];
+    var commenter = Request.QueryString["commenter"];
+    int page = int.TryParse(Request.QueryString["page"], out page) ? page : 1;
+    var year = Request.QueryString["year"];
+    var month = Request.QueryString["month"];
+    var day = Request.QueryString["day"];
+    int postCount;
+
+    var posts = PostService.Instance.GetPosts(Model.Content, tag, label, author, searchTerm, commenter, year, month, day, out postCount).ToIPublishedContent(true);
+
+    var lastPubDate = !posts.Any() ? DateTime.Now : DateTime.Parse(posts.First().GetPropertyValue<string>("uBlogsyPostDate"));
+
+    var qs = Request.QueryString.ToString().Replace("+", "%20");
+
+    // get blog url
+    string blogUrl = Request.Url.AbsoluteUri
+                            .Replace(CurrentPage.Url(), string.Empty)
+                            .TrimEnd("/".ToCharArray());
+
+    if (!string.IsNullOrWhiteSpace(qs))
+    {
+        blogUrl = blogUrl.Replace(qs, string.Empty).Replace("?", string.Empty);
+    }
+
+    Response.Clear();
+    Response.ContentType = "text/xml";
+    Response.ContentEncoding = Encoding.UTF8;
+    @Html.Raw("<?xml version=\"1.0\" encoding=\"UTF-8\" ?>")
+    <rss version="2.0">
+        <channel>
+            <title>@(Model.Content.GetPropertyValue("uBlogsyRssTitle"))</title>
+            <description>@(Model.Content.GetPropertyValue("uBlogsyRssDescription"))</description>
+            <copyright>@(Model.Content.GetPropertyValue("uBlogsyRssCopyright"))</copyright>
+            @*<image>@Model.Content.uBlogsyRssImage</image>*@
+            @Html.Raw(string.Format("<link>{0}</link>", blogUrl))
+            <lastBuildDate>@(lastPubDate.ToString("ddd, dd MMMM yyyy HH:mm:ss"))</lastBuildDate>
+            <pubDate>@(lastPubDate.ToString("ddd, dd MMMM yyyy HH:mm:ss"))</pubDate>
+            @ListPosts(blogUrl, posts)
+         </channel>
+    </rss>
+}
+
+
+@helper ListPosts(string blogUrl, IEnumerable<IPublishedContent> posts)
+{
+    foreach (var p in posts)
+    {
+        var authors = PostService.Instance.GetAuthors(p, false).Select(x => x.GetPropertyValue<string>("uBlogsyAuthorName")); 
+        <item>
+            <title>@p.GetPropertyValue("uBlogsyContentTitle")</title>
+            <author>@string.Join(", ", authors)</author>
+            <comments>@(blogUrl + p.Url())</comments>
+            <description>@(uBlogsy.Common.Extensions.StringExtensions.StripHtml(p.GetPropertyValue<string>("uBlogsyContentBody")).Trim())</description>
+            @Html.Raw(string.Format("<link>{0}{1}</link>", blogUrl, p.Url()))
+            <guid>@(blogUrl + p.Url())</guid>
+            <pubDate>@(p.GetPropertyValue("uBlogsyPostDate").ToString().FormatDateTime("ddd, dd MMMM yyyy HH:mm:ss")) </pubDate>
+        </item>
+    }
+}]]></Design>
+    </Template>
+    <Template>
+      <Name>[uBlogsy] Site Home</Name>
+      <Alias>uBlogsySiteHome</Alias>
+      <Design><![CDATA[@*
+    Sample home layout template. Your home layout does NOT have to inherit from uBlogsyBaseSite.
+*@
+
+@inherits UmbracoTemplatePage
+@{
+    Layout = "uBlogsyBaseSite.cshtml";
+}
+
+@section uBlogsyHead
+{ 
+    <link type="text/css" rel="Stylesheet" media="screen" href="/css/uBlogsy.css" />
+}
+
+
+@section uBlogsyMain
+{
+    <div id="uBlogsy"> 
+        <div id="uBlogsy_main" style="width:80%;padding: 0 5%">
+            <h1>
+                @Umbraco.Field("uBlogsyContentTitle")
+            </h1>
+            
+            <section>
+                @Umbraco.Field("uBlogsyContentBody")
+            </section>
+            
+            @* list posts for home - this only works if the home page is a parent, or sibling of uBlogsyLanding *@
+            @Html.CachedPartial("uBlogsy/Widgets/uBlogsyWidgetListPostsForHome", Model, 0, false, true, new ViewDataDictionary(ViewData) { { "ItemLimit", 5 } })		
+        </div>
+    </div>
+}]]></Design>
+    </Template>
+    <Template>
+      <Name>[uDatefoldersy] Folder Redirect</Name>
+      <Alias>uDateFoldersyFolderRedirect</Alias>
+      <Design><![CDATA[@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = null;
+}
+
+@RenderPage("~/Views/Partials/uDateFoldersy/uDateFoldersyFolderRedirect.cshtml")]]></Design>
+    </Template>
+  </Templates>
+  <Stylesheets />
+  <Macros>
+    <macro>
+      <name>[uBlogsy] Show Some Love</name>
+      <alias>uBlogsyShowSomeLove</alias>
+      <scriptType />
+      <scriptAssembly />
+      <scriptingFile>~/Views/MacroPartials/uBlogsy/uBlogsyMacroShowSomeLove.cshtml</scriptingFile>
+      <xslt />
+      <useInEditor>True</useInEditor>
+      <dontRender>False</dontRender>
+      <refreshRate>0</refreshRate>
+      <cacheByMember>False</cacheByMember>
+      <cacheByPage>False</cacheByPage>
+      <properties />
+    </macro>
+  </Macros>
+  <DictionaryItems>
+    <DictionaryItem Key="uBlogsy">
+      <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[]]></Value>
+      <DictionaryItem Key="uBlogsyDicPostsLatest">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Latest Posts]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="uBlogsyDicPagination">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[]]></Value>
+        <DictionaryItem Key="uBlogsyDicPaginationNewer">
+          <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Newer]]></Value>
+        </DictionaryItem>
+        <DictionaryItem Key="uBlogsyDicPaginationOlder">
+          <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Older]]></Value>
+        </DictionaryItem>
+      </DictionaryItem>
+      <DictionaryItem Key="uBlogsyDicSearch">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Search]]></Value>
+        <DictionaryItem Key="uBlogsyDicSearchSubmit">
+          <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Submit]]></Value>
+        </DictionaryItem>
+      </DictionaryItem>
+      <DictionaryItem Key="uBlogsyDicTags">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Tags]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="uBlogsyDicArchive">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Archive]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="uBlogsyDicAuthors">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Authors]]></Value>
+        <DictionaryItem Key="uBlogsyDicPostWrittenBy">
+          <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Written by]]></Value>
+          <DictionaryItem Key="uBlogsyDicPostWrittenAt">
+            <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[at]]></Value>
+          </DictionaryItem>
+        </DictionaryItem>
+      </DictionaryItem>
+      <DictionaryItem Key="uBlogsyDicRssSubscribe">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Subscribe]]></Value>
+      </DictionaryItem>
+      <DictionaryItem Key="uBlogsyNavigation">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[]]></Value>
+        <DictionaryItem Key="uBlogsyNavigationHome">
+          <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Home]]></Value>
+        </DictionaryItem>
+      </DictionaryItem>
+      <DictionaryItem Key="uBlogsyDicCategories">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Categories]]></Value>
+        <DictionaryItem Key="uBlogsyDicCategoriesAll">
+          <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[All Categories]]></Value>
+        </DictionaryItem>
+      </DictionaryItem>
+      <DictionaryItem Key="uBlogsyDicPostsRelated">
+        <Value LanguageId="1" LanguageCultureAlias="en-US"><![CDATA[Related]]></Value>
+      </DictionaryItem>
+    </DictionaryItem>
+  </DictionaryItems>
+  <Languages />
+  <DataTypes>
+    <DataType Name="[uBlogsy] Author Picker" Id="Umbraco.MultiNodeTreePicker" Definition="29d830c6-15f3-44c7-a775-3100a6cb8210" DatabaseType="Nvarchar">
+      <PreValues>
+        <PreValue Id="12" Value="{&#xD;&#xA;  &quot;type&quot;: &quot;content&quot;,&#xD;&#xA;  &quot;query&quot;: &quot;$current/ancestor-or-self::uBlogsyLanding//uBlogsyContainerAuthor&quot;&#xD;&#xA;}" Alias="startNode" SortOrder="0" />
+        <PreValue Id="13" Value="" Alias="filter" SortOrder="1" />
+        <PreValue Id="14" Value="" Alias="minNumber" SortOrder="2" />
+        <PreValue Id="15" Value="" Alias="maxNumber" SortOrder="3" />
+      </PreValues>
+    </DataType>
+    <DataType Name="[uBlogsy] Label Picker" Id="Umbraco.MultiNodeTreePicker" Definition="d1c774d6-7086-4db5-8cff-61853cbdeefa" DatabaseType="Nvarchar">
+      <PreValues>
+        <PreValue Id="16" Value="{&#xD;&#xA;  &quot;type&quot;: &quot;content&quot;,&#xD;&#xA;  &quot;query&quot;: &quot;$current/ancestor-or-self::uBlogsyLanding//uBlogsyContainerLabel&quot;&#xD;&#xA;}" Alias="startNode" SortOrder="0" />
+        <PreValue Id="17" Value="" Alias="filter" SortOrder="1" />
+        <PreValue Id="18" Value="" Alias="minNumber" SortOrder="2" />
+        <PreValue Id="19" Value="" Alias="maxNumber" SortOrder="3" />
+      </PreValues>
+    </DataType>
+    <DataType Name="uTagsy Tags" Id="uTagsy" Definition="00000455-0000-0000-0000-000000000000" DatabaseType="Nvarchar">
+      <PreValues />
+    </DataType>
+  </DataTypes>
+  <control>/usercontrols/uBlogsy/dashboard/Installer.ascx</control>
+  <Actions>
+    <Action runat="install" undo="true" alias="addDashboardSection" dashboardAlias="uBlogsyDashboardSection">
+      <section>
+        <areas>
+          <area>default</area>
+          <area>content</area>
+        </areas>
+        <tab caption="Create Blog Post">
+          <control>/usercontrols/uBlogsy/dashboard/CreatePost.ascx</control>
+        </tab>
+        <tab caption="Blog RSS Import Tool">
+          <control>/usercontrols/uBlogsy/dashboard/RSSImport.ascx</control>
+        </tab>
+      </section>
+    </Action>
+  </Actions>
+</umbPackage>
