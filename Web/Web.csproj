@@ -262,7 +262,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Plugins\**" />    
+    <Content Include="App_Plugins\**" />
     <Content Include="App_Browsers\**" />
     <Content Include="App_Data\**" />
     <Content Include="config\**" />
@@ -272,7 +272,9 @@
     <Content Include="Umbraco\**" />
     <Content Include="Umbraco_Client\**" />
     <Content Include="Views\**" />
-    <None Include="packages.config" />    
+    <Content Include="App_Plugins\Slider\editor.cshtml" />
+    <Content Include="App_Plugins\Slider\package.manifest" />
+    <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
