@@ -1,10 +1,10 @@
 {
   "name": "db-sync",
   "version": "1.0.0",
-  "description": "Sync \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D DB Sync Umbraco Strategy",
-  "main": "index.js",
+  "description": "DB Sync Umbraco Strategy",
+  "main": "snapshot.js",
   "scripts": {
-    "test": "cypress run"
+    "test": "node snapshot.js"
   },
   "repository": {
     "type": "git",
