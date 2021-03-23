@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/smashraid/db-sync#readme",
   "devDependencies": {
-    "@percy/script": "^1.1.0"
+    "@percy/script": "^1.1.0",
+    "http-server": "^0.12.3"
   }
 }
