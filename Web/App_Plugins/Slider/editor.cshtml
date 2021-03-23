@@ -1,0 +1,10 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<dynamic>
+@*<pre style="color: @Model.config.color">@Model</pre>*@
+
+@foreach (var item in Model.value)
+{
+    @*<img src="@Umbraco.TypedMedia(imageId).GetCropUrl(800, imageCropMode: ImageCropMode.Crop)" />*@
+    var media = Umbraco.TypedMedia(item.id.ToString());
+    <img src="@item.urlFocalCrop" />
+}
+

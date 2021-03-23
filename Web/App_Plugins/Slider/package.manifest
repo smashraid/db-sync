@@ -1,0 +1,24 @@
+﻿{
+  "gridEditors": [
+    {
+      "name": "Code",
+      "alias": "code",
+      "view": "/App_Plugins/Slider/editor.html",
+      "icon": "icon-code",
+      "config": {
+        "color": "red",
+        "text-align": "right",
+        "multiPicker": true,
+        "onlyImages": true,
+        "disableFolderSelect": true,
+        "size": {
+          "width": 200,
+          "height": 200
+        }
+      }
+    }
+  ],
+  javascript: [
+    "/App_Plugins/Slider/editor.controller.js"
+  ]
+}
