@@ -1,0 +1,25 @@
+{
+  "name": "db-sync",
+  "version": "1.0.0",
+  "description": "Sync \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D DB Sync Umbraco Strategy",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smashraid/db-sync.git"
+  },
+  "keywords": [
+    "umbraco"
+  ],
+  "author": "Saulo Tsuchida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smashraid/db-sync/issues"
+  },
+  "homepage": "https://github.com/smashraid/db-sync#readme",
+  "devDependencies": {
+    "@percy/script": "^1.1.0"
+  }
+}
