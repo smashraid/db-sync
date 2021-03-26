@@ -17,9 +17,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: NPM Install
-      run: npm install
-
     - name: Setup MSBuild path
       uses: microsoft/setup-msbuild@v1.0.2
 
@@ -65,17 +62,16 @@ jobs:
 
   test:
     runs-on: windows-latest
-    needs: deploy
 
     steps:
-      - name: Download artifact from build job
-        uses: actions/download-artifact@v2
-        with:
-          name: ASP-app
+      - uses: actions/checkout@v2
+
+      - name: NPM Install
+        run: npm install
 
       - name: Percy Test
         uses: percy/exec-action@master
         with:
-          command: "node ./Web/snapshots.js"
+          command: "node snapshots.js"
         env:
           PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
