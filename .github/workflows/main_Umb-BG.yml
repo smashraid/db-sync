@@ -16,6 +16,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - name: NPM Install
+      run: npm install
+
     - name: Setup MSBuild path
       uses: microsoft/setup-msbuild@v1.0.2
 
@@ -55,3 +58,20 @@ jobs:
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_0908b0dde6b44742ac93e15e53281ba9 }}
         package: .
+
+  test:
+    runs-on: windows-latest
+    needs: build
+
+    steps:
+      - name: Download artifact from build job
+        uses: actions/download-artifact@v2
+        with:
+          name: ASP-app
+
+      - name: Percy Test
+        uses: percy/exec-action@master
+        with:
+          command: "node snapshots.js"
+        env:
+          PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
