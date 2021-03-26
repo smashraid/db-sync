@@ -10,6 +10,7 @@ PercyScript.run(async (page, percySnapshot) => {
   //console.log(`Server started at ${TEST_URL}`);
 
   await page.goto(TEST_URL);
+  await page.waitFor('.section__hero-content');
   await percySnapshot('Home');
 
   // Enter a new to-do.
