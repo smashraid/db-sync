@@ -18,6 +18,15 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - name: Install
+      run: npm install
+    - name: Percy Test
+      uses: percy/exec-action@master
+      with:
+        command: "node snapshots.js"
+      env:
+        PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
+
     - name: Add MSBuild to PATH
       uses: microsoft/setup-msbuild@v1
 
